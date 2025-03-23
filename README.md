@@ -1,2 +1,2 @@
 # Othello-agent
-GIST AGI HW1: rule-based Othello strategies implemented by javascript
+GIST AGI HW1: Rule-based Othello strategies implemented by javascript
